@@ -1,3 +1,7 @@
+我与王辉共同编辑的版本在https://github.com/huicnvictor/Run
+此Repo为个人版本
+
+
 # Krampus Run!: Bavarian Theme Running Game
 
 ## Overview
